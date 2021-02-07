@@ -1,5 +1,4 @@
 # Quasi - Stationary Rainfall Systems and Climate Change - Future Projection
-- Summary the progress of this research and future work
 
 ## Abstract
 In order to understand how much global warming will affect the extreme rainfall associated with quasi statioanry rainfall system. First, we use NCEP FNL and CReSS numeric model to reconstruct the case (i.e CTL). Then, by subtracting CMIP5 Historical Runs from 21 century Future Projection Runs to estimate the climate change ∆RCP for RCP8.5 scenario. We add ∆RCP on NCEP FNL as the IC/BC for SE and simulate the same system in future climate. After that we analyze the precipitation distribution pattern and water budget change.
