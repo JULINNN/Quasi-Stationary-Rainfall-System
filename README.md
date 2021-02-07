@@ -69,7 +69,7 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
 ## Data Processing
 1. Download the data
     - NCEP FNL [Download Tutorial](./doc/ncep.md)
-    - CMIP5 [Download Tutorial](./doc/doc/cmip5.md)
+    - CMIP5 [Download Tutorial](./doc/cmip5.md)
     - ECMWF [Download Tutorial](./doc/ecmwf.md)
 
 2. Process the data
