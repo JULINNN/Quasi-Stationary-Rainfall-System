@@ -20,19 +20,8 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
     - Relative Humidity (%)
     - SST (K)
 
-- CMIP5 Models
-  - 38 models with Histroical Runs and Future Projection Runs
-  - Future Projection Runs : 2081 ~ 2100
-  - Historical Runs : 1981 ~ 2000
-  - Spatial Resolution : multi, 17 levels
-  - Time Resolution : monthly
-  - Variable :
-    - Geopotential Height (gpm)
-    - U, V Wind (m/s)
-    - Pressure (pa)
-    - Vertical Temperature (K), 17 levels
-    - Specific Humidity (g/kg)
-    - SST (K)
+
+
 - ECMWF ERA5
   
 ## 2012.06.08 Case
@@ -48,20 +37,6 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
     - Pressure (pa)
     - Vertical Temperature (K)
     - Relative Humidity (%)
-    - SST (K)
-
-- CMIP5 Models
-  - 38 models with Histroical Runs and Future Projection Runs
-  - Future Projection Runs : 2081 ~ 2100
-  - Historical Runs : 1981 ~ 2000
-  - Spatial Resolution : multi, 17 levels
-  - Time Resolution : monthly
-  - Variable :
-    - Geopotential Height (gpm)
-    - U, V Wind (m/s)
-    - Pressure (pa)
-    - Vertical Temperature (K), 17 levels
-    - Specific Humidity (g/kg)
     - SST (K)
 
 - ECMWF ERA5

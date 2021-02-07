@@ -14,11 +14,26 @@
 - All of CMIP5 Model data are in my folder, you can access the data by go to `/raid1/daniel/CMIP5`.
 - You can check the model list belowing.
 
+## CMIP5 Data Descriptions
+- Data Folder : `/raid1/daniel/CMIP5`
+- 38 models with Histroical Runs and FutureProjection Runs
+- Future Projection Runs : 2081 ~ 2100
+- Historical Runs : 1981 ~ 2000
+- Spatial Resolution : multi, 17 levels
+- Time Frequency : monthly
+- Variables :
+  - Geopotential Height (gpm)
+  - U, V Wind (m/s)
+  - Pressure (pa)
+  - Vertical Temperature (K), 17 levels
+  - Specific Humidity (g/kg)
+  - SST (K)
+
 ## Model Lists
 | Models | Institues | Countries |
 |--------|-----------|-----------|
-| ACCESS1.0 | Commonwealth Scientific and Industrial Research Organization, Australia and Bureau of Meteorology | Austalia|
-| ACCESS1.3 | Commonwealth Scientific and Industrial Research Organization, Australia and Bureau of Meteorology | Austalia|
+| ACCESS1.0 | Commonwealth Scientific and Industrial Research Organization, Australia and Bureau of Meteorology | Austalia |
+| ACCESS1.3 | Commonwealth Scientific and Industrial Research Organization, Australia and Bureau of Meteorology | Austalia |
 | BCC-CSM1.1 |  Beijing Climate Center, China | China |
 | BCC-CSM1.1(m) | Beijing Climate Center, China | China |
 | CanESM2 | Canadian Centre for Climate Modelling and Analysis | Canada |
