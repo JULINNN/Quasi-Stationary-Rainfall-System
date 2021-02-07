@@ -12,3 +12,5 @@
 - Step 9 : Select Valid Time and Parameter
 - Step 10 : Choose files you want to download
 - Step 11 : Go to Download Option to create download script
+- Step 12 : Fill your account and password in `wget` script
+- Step 13 : Run the Script

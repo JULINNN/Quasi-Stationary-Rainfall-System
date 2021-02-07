@@ -12,14 +12,14 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
 - NCEP FNL
   - Spatial Resolution : 0.25˚ x 0.25˚, 26 levels
   - Time Resolution : 6 hours, 24 records
-    | Variables | Units |
-    |-----------|-------|
-    | Geopotential Height | gpm |
-    | U, V Wind | m/s   |
-    | Pressure  |   pa  |
-    | Vertical Temperature | K |
-    | Relative Humidity | % |
-    | SST | K |
+    | Variables            | Units |
+    | -------------------- | ----- |
+    | Geopotential Height  | gpm   |
+    | U, V Wind            | m/s   |
+    | Pressure             | pa    |
+    | Vertical Temperature | K     |
+    | Relative Humidity    | %     |
+    | SST                  | K     |
 
 - ECMWF ERA5
   
@@ -30,14 +30,14 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
 - NCEP FNL
   - Spatial Resolution : 1˚ x 1˚, 26 levels
   - Time Resolution : 6 hours, 24 records
-    | Variables | Units |
-    |-----------|-------|
-    | Geopotential Height | gpm |
-    | U, V Wind | m/s   |
-    | Pressure  |   pa  |
-    | Vertical Temperature | K |
-    | Relative Humidity | % |
-    | SST | K |
+    | Variables            | Units |
+    | -------------------- | ----- |
+    | Geopotential Height  | gpm   |
+    | U, V Wind            | m/s   |
+    | Pressure             | pa    |
+    | Vertical Temperature | K     |
+    | Relative Humidity    | %     |
+    | SST                  | K     |
 
 - ECMWF ERA5
 
@@ -66,9 +66,9 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
    - Water Budget <!-- grads, fortran, python -->
 
 ## Resources
-- [Linux Tutorial](./resources/linux.md)
-- [vi Tutorial](./resources/vi.md)
-- [Fortran Tutorial](./resources/fortran.md)
-- [GrADS Tutoral](./resources/grads.md)
-- [Python Tutorial](./resources/python.md)
-- [CReSS Tutorial](./resources/cress.md)
+- [Linux Tutorial](./doc/linux.md)
+- [vi Tutorial](./doc/vi.md)
+- [Fortran Tutorial](./doc/fortran.md)
+- [GrADS Tutoral](./doc/grads.md)
+- [Python Tutorial](./doc/python.md)
+- [CReSS Tutorial](./doc/cress.md)
