@@ -22,9 +22,9 @@
 - Spatial Resolution : multi, 17 levels
 - Time Frequency : monthly
 - Variables :
-    | Varialbes | Units |
+    | Variables | Units |
     |-----------|-------|
-    | Geopotentail Height | gpm |
+    | Geopotential Height | gpm |
     | U, V Wind | m/s   |
     | Pressure  |   pa  |
     | Vertical Temperature | K |
