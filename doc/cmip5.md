@@ -22,12 +22,15 @@
 - Spatial Resolution : multi, 17 levels
 - Time Frequency : monthly
 - Variables :
-  - Geopotential Height (gpm)
-  - U, V Wind (m/s)
-  - Pressure (pa)
-  - Vertical Temperature (K), 17 levels
-  - Specific Humidity (g/kg)
-  - SST (K)
+    | Varialbes | Units |
+    |-----------|-------|
+    | Geopotentail Height | gpm |
+    | U, V Wind | m/s   |
+    | Pressure  |   pa  |
+    | Vertical Temperature | K |
+    | Specific Humidity | g/kg |
+    | SST | K |
+
 
 ## Model Lists
 | Models | Institues | Countries |

@@ -1,7 +1,7 @@
 # Quasi - Stationary Rainfall Systems and Climate Change
 
 ## Abstract
-In order to understand how much global warming will affect the extreme rainfall associated with quasi statioanry rainfall system. First, we use NCEP FNL and CReSS numeric model to reconstruct the case (i.e CTL). Then, by subtracting CMIP5 Historical Runs from 21 century Future Projection Runs to estimate the climate change ∆RCP for RCP8.5 scenario. We add ∆RCP on NCEP FNL as the IC/BC for SE and simulate the same system in future climate. After that we analyze the precipitation distribution pattern and water budget change.
+In order to understand how much global warming will affect the extreme rainfall associated with quasi statioanry rainfall system. First, we use NCEP FNL and CReSS numeric model to reconstruct the case (i.e CE). Then, by subtracting CMIP5 Historical Runs from 21 century Future Projection Runs to estimate the climate change ∆RCP for RCP8.5 scenario. We add ∆RCP on NCEP FNL as the IC/BC for SE and simulate the same system in future climate. After that we analyze the precipitation distribution pattern and water budget change.
 
 ## 2017.05.30 Case
 
@@ -19,8 +19,6 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
     - Vertical Temperature (K)
     - Relative Humidity (%)
     - SST (K)
-
-
 
 - ECMWF ERA5
   
@@ -41,7 +39,7 @@ The Me-Yu front affected Taiwan since 1st June 2017 and it touched Northern Taiw
 
 - ECMWF ERA5
 
-## Data Processing
+## Data Process
 1. Download the data
     - NCEP FNL [Download Tutorial](./doc/ncep.md)
     - CMIP5 [Download Tutorial](./doc/cmip5.md)
